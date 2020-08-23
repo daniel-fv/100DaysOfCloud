@@ -10,20 +10,15 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Daniel's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi! I'm a Cloud Engineer with experience as a Linux sysadmin and as a network administrator. Currently working at [Nova Cloud](https://novacloud.business) as Cloud Solutions Manager.
 
-[✍️ Tell us why you started this challenge]
+I started this challenge as a way to practice and document my journey for the Microsoft Azure Architect certification.
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@dfv78](https://twitter.com/dfv78)
+- [LinkedIn](https://www.linkedin.com/in/danielfajardovalenti)
 
 ## Stepping out the door
 
