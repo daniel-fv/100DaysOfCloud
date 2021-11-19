@@ -13,11 +13,11 @@
 
 ## Daniel's Cloud Journey
 
-Hi! I'm a Cloud Engineer with experience as a Linux sysadmin and as a network administrator. Currently working at [Nova Cloud](https://novacloud.business) as Cloud Solutions Manager.
+I’m a Cloud Architect with experience as a sysadmin in Linux and network administration.
 
-I started this challenge as a way to practice and document my journey for the Microsoft Azure Architect certification.
+I specialize in Microsoft Azure and I started this challenge as a way to practice and document my continued journey in the cloud.
 
-- [@dfv78](https://twitter.com/dfv78)
+- [@dfv78](https://twitter.com/built_on_cloud)
 - [LinkedIn](https://www.linkedin.com/in/danielfajardovalenti)
 
 ## Stepping out the door
