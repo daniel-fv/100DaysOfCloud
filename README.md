@@ -17,7 +17,7 @@ I’m a Cloud Architect with experience as a sysadmin in Linux and network admin
 
 I specialize in Microsoft Azure and I started this challenge as a way to practice and document my continued journey in the cloud.
 
-- [@dfv78](https://twitter.com/built_on_cloud)
+- [@built_on_cloud](https://twitter.com/built_on_cloud)
 - [LinkedIn](https://www.linkedin.com/in/danielfajardovalenti)
 
 ## Stepping out the door
